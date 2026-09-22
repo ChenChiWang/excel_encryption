@@ -1,0 +1,17 @@
+# 金鑰與敏感檔（切勿進 git）
+key.key
+*.key
+.env
+
+# 隱寫輸出與暫存
+stego.png
+stego.jpg
+revealed.xlsx
+*.bin
+
+# 原始 Excel 樣本（依需求調整）
+example.xlsx
+
+# Python
+__pycache__/
+*.pyc
